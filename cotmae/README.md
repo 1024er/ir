@@ -95,3 +95,12 @@ Scores of CoT-MAE that pre-trained for 800k steps & 1200k steps are listed as fo
 
 ## Citations
 If you find our work useful, please cite our paper.
+
+```bash
+@article{wu2022contextual,
+  title={Contextual mask auto-encoder for dense passage retrieval},
+  author={Wu, Xing and Ma, Guangyuan and Lin, Meng and Lin, Zijia and Wang, Zhongyuan and Hu, Songlin},
+  journal={arXiv preprint arXiv:2208.07670},
+  year={2022}
+}
+```
